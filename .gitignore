@@ -1,0 +1,30 @@
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Editor files
+*.swp
+*.bak
+*.backup
+*.tmp
+
+# Output files
+*.pdf
+*.dvi
+*.ps
+*.xdv
+
+# Mac system files
+.DS_Store
