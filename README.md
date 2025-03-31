@@ -15,10 +15,6 @@
 > This foundational paper introduces the "Observation Function" as a functional replacement for time, constructing the concept of "Origin Light" as a pre-observational field from which logical structure emerges.  
 > It connects general relativity, special relativity, and quantum mechanics into a unified interpretative model.
 
-> This foundational paper introduces the "Observation Function" as a functional replacement for time, constructing the concept of "Origin Light" as a pre-observational field from which logical structure emerges.  
-> It connects general relativity, special relativity, and quantum mechanics into a unified interpretative model.
-
-
 Pre-observational closed-form model of logic emergence and field behavior from the origin structure.
 
 ## License
